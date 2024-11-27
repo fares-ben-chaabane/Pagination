@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PaginationDemo</string>
+
+    <string name="loading">Loading…</string>
+    <string name="error_loading_image">Error loading image</string>
+    <string name="refresh">Refresh</string>
+
+    <string name="error_refresh">Error Refresh: %s</string>
+    <string name="error_append">Error Append: %s</string>
+    <string name="error_ApiGenericServerError">ApiGenericServerError</string>
+    <string name="error_ApiNullBody">ApiNullBody</string>
+    <string name="error_ApiServerErrorWithCode">ApiServerErrorWithCode</string>
+    <string name="error_GenericError">GenericError</string>
+    <string name="error_NoInternetError">NoInternetError</string>
+    <string name="error_SocketTimeOutError">SocketTimeOutError</string>
+
+    <string name="error_paging_loading">Error when paging</string>
+
+</resources>
